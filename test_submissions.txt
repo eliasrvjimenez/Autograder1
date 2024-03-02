@@ -1,0 +1,12 @@
+test_solutions/sol_stuck_block_1
+test_solutions/sol_stuck_block
+test_solutions/sol_infinite_1
+test_solutions/sol_infinite
+test_solutions/sol_slow
+test_solutions/sol_slow_1
+test_solutions/sol_segfault
+test_solutions/sol_segfault_1
+test_solutions/sol_incorrect
+test_solutions/sol_correct
+test_solutions/sol_incorrect_1
+test_solutions/sol_correct_1

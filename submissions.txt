@@ -1,0 +1,10 @@
+./solutions/sol_1
+./solutions/sol_2
+./solutions/sol_3
+./solutions/sol_4
+./solutions/sol_5
+./solutions/sol_6
+./solutions/sol_7
+./solutions/sol_8
+./solutions/sol_9
+./solutions/sol_10
